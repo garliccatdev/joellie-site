@@ -1803,29 +1803,5 @@ form label {
   opacity: 0;
 }
 
-#fh5co-attire {
-    background-color: #f7f7f7; /* Light gray background */
-    padding: 40px 0;
-}
-
-#fh5co-attire .fh5co-heading h2,
-#fh5co-attire .fh5co-heading h3 {
-    font-size: 36px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    color: #333; /* Dark text color */
-}
-
-#fh5co-attire p {
-    font-size: 18px;
-    line-height: 1.6;
-    color: #666; /* Light gray text */
-    max-width: 800px;
-    margin: 0 auto 20px;
-}
-
-#fh5co-attire .row {
-    margin-bottom: 40px;
-}
 /*# sourceMappingURL=style.css.map */
 
